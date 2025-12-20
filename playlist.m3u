@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SunuLabelTV.sn@SD" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="prueba",Sunu Label TV (480p)
+http://iptv.am000.tv:8000/live/add17/add17/16.ts
 
 #Senegal
 #EXTINF:-1 tvg-id="2STV.sn@SD" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Senegal-News",2STV
@@ -66,6 +68,7 @@ http://69.64.57.208/sentv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SunuLabelTV.sn@SD" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="Senegal-Music",Sunu Label TV (480p)
 https://live3.acangroup.org:1929/publiclive/sunulabel/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TeleMusikSenegal.sn@SD" tvg-logo="https://i.imgur.com/dPAPLsd.png" group-title="Senegal-Music",TeleMusik Senegal (720p)
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
