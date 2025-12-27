@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SunuLabelTV.sn@SD" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="prueba",Sunu Label TV (480p)
+#EXTINF:-1 tvg-id="PB1" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="prueba",Sunu Label TV (480p)
 http://iptv.am000.tv:8000/live/add17/add17/16.ts
+#EXTINF:-1 tvg-id="PB2" tvg-logo="https://i.imgur.com/Ibp7IBk.jpeg" group-title="prueba",Sunu Label TV (480p)
+https://live.eu-north-1b.cf.dmcdn.net/sec2(lyXONOHZS4Jm-YCr7FCDKjabrsibJ_6pmFdoosKPtye9S-ZvrU21Eb4Qod-qOkCDMRhUfxl-0-SUEIUAcEQzCgv2iz3MuaQ2WVuw7SEZLMaamYG2axtnbVIbEhUDeujK)/dm/3/x9kctc2/d/live-720.m3u8
 
 #Senegal
 #EXTINF:-1 tvg-id="2STV.sn@SD" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Senegal-News",2STV
